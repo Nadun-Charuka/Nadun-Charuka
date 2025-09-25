@@ -57,8 +57,7 @@
 
 <p align = "center">
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-
+![snake gif](https://github.com/Nadun-Charuka/Nadun-Charuka/blob/output/github-snake.svg)
 </p>
 
 ---
