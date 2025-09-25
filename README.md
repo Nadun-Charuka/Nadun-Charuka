@@ -1,3 +1,5 @@
+<img alt="Hola" height="70px" width="70px" align="left" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" alt="giphy">
 <h1 align="center">Hi, I'm Nadun Charuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> <b><i align="center"> "What is your choice? It changes your life."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 <p>
@@ -13,11 +15,20 @@
 -   📱 I'm passionate about **mobile app development**, especially with Flutter.
 -   💡 I enjoy finding **simple, efficient, and scalable** solutions for real-world problems.
 -   📚 I'm always learning new things in the field of Information Systems and technology.
--   📫 You can connect with me on LinkedIn or through my personal portfolio. (You can add your links here)
+-   📫 You can connect with me on LinkedIn or through my personal portfolio <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>.
+	
+### Contributions Graph 🐍
+
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake-dark.svg">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake.svg">
+		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake.svg">
+	</picture>
+</p>
 
 
-
-### My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+### Programming languages <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -31,23 +42,26 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+</br>
 
-### Frameworks & Tools ⚙️
+### Frameworks & Tools 
+</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Riverpod-5B92E5?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,idea,r,kali,godot,git,discord,stackoverflow,supabase,docker,express,figma,pycharm,firebase,github,linux,mongodb,mysql,nextjs,nodejs,postman,tailwind,vscode,ubuntu,kubernetes&perline=13" />
+  </a>
 </p>
+
+</br>
 
 ### Problem Solving <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>
 <p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
+ <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+<a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
 </p>
+
+</br>
 
 ### GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
@@ -55,26 +69,47 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Nadun-Charuka&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Your GitHub Stats" height="230px"/>
     </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 </p>
 
+
+### Connect With Me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+
+<p> 
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" > 
+	<img src="https://img.icons8.com/doodle/40/000000/facebook.png" style="margin-left: 10px;" >
+	<img src="https://img.icons8.com/doodle/40/000000/instagram.png" style="margin-left: 10px;" >
+	<img src="https://img.icons8.com/doodle/40/000000/youtube.png" style="margin-left: 10px;" >
+
+</p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### Contributions Graph 🐍
-
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake.svg">
-		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake.svg">
-	</picture>
-</p>
+<br>
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/nadun-charuka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
