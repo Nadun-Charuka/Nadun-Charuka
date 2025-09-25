@@ -62,8 +62,11 @@
 		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nadun-Charuka/Nadun-Charuka/output/github-snake.svg">
 	</picture>
 </p>
----
+
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/nadun-charuka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    </div>
+    <a href="https://www.linkedin.com/in/nadun-charuka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+</div>
+
+---
